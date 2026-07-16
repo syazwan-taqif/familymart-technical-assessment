@@ -50,4 +50,4 @@ It covers our deep-dive implementation strategies across:
 2. Context Engineering (Retrieval-grounded tools, lifecycle filtering, and freshness validations).
 3. Harness Engineering (Deterministic out-of-band Python guardrails, risk-tiered Human-in-the-Loop gates, and automated circuit breakers).
 
-👉 Click here to open the full Task 5 Safety & Reliability Architecture Document
+👉 **[Click here to open the full Task 5 Safety & Reliability Architecture Document](task5_agentic_ai_safety_architecture.md)**
