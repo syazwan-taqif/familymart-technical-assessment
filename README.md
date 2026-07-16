@@ -1,5 +1,5 @@
 # familymart-technical-assessment
-FamilyMart Technical Assessment submission covering Computer Vision (YOLOv8 Car Counter &amp; OCR) .
+FamilyMart Technical Assessment submission covering Computer Vision (YOLOv8 Car Counter & OCR) and Agentic AI Safety Architecture
 
 ## Task 2: Car Counter (Computer Vision)
 
