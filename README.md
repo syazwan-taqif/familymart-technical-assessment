@@ -22,9 +22,10 @@ How to Reproduce
 
 ## Task 3: Optical Character Recognition (OCR)
 
-Dataset Setup : The evaluation images provided (ImageOCR.zip) were extracted and organized into the workspace directory as follows:  
-
+Dataset Setup : The evaluation images provided (ImageOCR.zip) were extracted and organized into the workspace directory as follows:
+1. For deposit sampel:
 /kaggle/working/dataset/deposit_sample.png
+2. For transfer sampel:
 /kaggle/working/dataset/transfer_sample.png
 
 Approach & Methodology
@@ -42,3 +43,11 @@ How to Reproduce
 2. Open and run all execution cells within optical-character-recognition-ocr.ipynb.
 3. The pipeline will dynamically display the cropped matrix, parse the pixels, and output the cleanly isolated transaction amounts directly onto the notebook console window.
 
+## Task 5: LLM – Agentic AI (Safety & Reliability Architecture)
+The full conceptual and architectural blueprint for moving the retail chain's inventory agent from an unreliable pilot to a production-ready enterprise solution has been thoroughly documented.
+It covers our deep-dive implementation strategies across:
+1. Prompt Engineering (Role/scope lock-in, structured JSON outputs, and mandatory citations).
+2. Context Engineering (Retrieval-grounded tools, lifecycle filtering, and freshness validations).
+3. Harness Engineering (Deterministic out-of-band Python guardrails, risk-tiered Human-in-the-Loop gates, and automated circuit breakers).
+
+👉 Click here to open the full Task 5 Safety & Reliability Architecture Document
